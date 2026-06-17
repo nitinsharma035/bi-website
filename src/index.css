@@ -1,0 +1,88 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'ITCAvantGardeStd'; 
+  src: url('/font/ITCAvantGardeStd-Bk.woff2') format('woff2'),
+       url('/font/ITCAvantGardeStd-Bk.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+:root {
+  font-family: 'ITCAvantGardeStd', sans-serif;
+}
+
+body {
+  margin: 0;
+  background-color: white; /* Body background white */
+  color: #00394E;
+}
+
+  .flip-text {
+          position: absolute;
+
+          font-size: 14vw;
+          line-height: 0.8;
+          font-weight: 900;
+          letter-spacing: -0.08em;
+          color: #d8a7b8;
+
+          opacity: 0;
+
+          transform:
+            perspective(1000px)
+            rotateX(-90deg)
+            translateY(120px)
+            scale(0.8);
+
+          transition:
+            all 0.9s cubic-bezier(0.22, 1, 0.36, 1);
+
+          -webkit-text-stroke: 4px rgba(255,255,255,0.35);
+
+          text-shadow:
+            0px 4px 0px rgba(255,255,255,0.12),
+            0px 8px 0px rgba(255,255,255,0.05);
+        }
+
+        .flip-text.active {
+          opacity: 1;
+
+          transform:
+            perspective(1000px)
+            rotateX(0deg)
+            translateY(0px)
+            scale(1);
+        }
+
+        @media (max-width: 768px) {
+          .flip-text {
+            font-size: 20vw;
+            -webkit-text-stroke: 2px rgba(255,255,255,0.35);
+          }
+        }
+      /* Add in global css */
+
+@keyframes float {
+  0%,100% {
+    transform: translateY(0px) translateX(0px);
+  }
+  50% {
+    transform: translateY(-30px) translateX(20px);
+  }
+}
+
+@keyframes gridMove {
+  from {
+    background-position: 0 0;
+  }
+  to {
+    background-position: 40px 40px;
+  }
+}
+.stroke-text {
+  color: #fff;
+  -webkit-text-stroke: 1px rgba(255, 255, 255, 0.9);
+}

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve" width="512" height="512">
+<g>
+	<g>
+		<path style="fill:none;stroke:#000000;strokeWidth:15;strokeLinecap:round;strokeLinejoin:round;stroke-miterlimit:10;" d="&#10;&#9;&#9;&#9;M7.5,332V102h497v294c0,8.837-7.163,16-16,16h-53.944"/>
+		<path style="fill:none;stroke:#000000;strokeWidth:15;strokeLinecap:round;strokeLinejoin:round;stroke-miterlimit:10;" d="&#10;&#9;&#9;&#9;M118.167,412H23.5c-8.837,0-16-7.163-16-16v-28"/>
+		
+			<line style="fill:none;stroke:#000000;strokeWidth:15;strokeLinecap:round;strokeLinejoin:round;stroke-miterlimit:10;" x1="314.111" y1="412" x2="277.167" y2="412"/>
+		<path style="fill:none;stroke:#000000;strokeWidth:15;strokeLinecap:round;strokeLinejoin:round;stroke-miterlimit:10;" d="&#10;&#9;&#9;&#9;M446.167,22H488.5c8.837,0,16,7.163,16,16v64H7.5V38c0-8.837,7.163-16,16-16h387.333"/>
+		
+			<circle style="fill:none;stroke:#000000;strokeWidth:15;strokeLinecap:round;strokeLinejoin:round;stroke-miterlimit:10;" cx="74.231" cy="62.315" r="16"/>
+		
+			<circle style="fill:none;stroke:#000000;strokeWidth:15;strokeLinecap:round;strokeLinejoin:round;stroke-miterlimit:10;" cx="132.897" cy="62.315" r="16"/>
+		
+			<circle style="fill:none;stroke:#000000;strokeWidth:15;strokeLinecap:round;strokeLinejoin:round;stroke-miterlimit:10;" cx="191.564" cy="62.315" r="16"/>
+		
+			<circle style="fill:none;stroke:#000000;strokeWidth:15;strokeLinecap:round;strokeLinejoin:round;stroke-miterlimit:10;" cx="197.667" cy="414" r="76"/>
+		
+			<circle style="fill:none;stroke:#000000;strokeWidth:15;strokeLinecap:round;strokeLinejoin:round;stroke-miterlimit:10;" cx="197.667" cy="414" r="46"/>
+		
+			<circle style="fill:none;stroke:#000000;strokeWidth:15;strokeLinecap:round;strokeLinejoin:round;stroke-miterlimit:10;" cx="374.333" cy="364" r="76"/>
+		
+			<circle style="fill:none;stroke:#000000;strokeWidth:15;strokeLinecap:round;strokeLinejoin:round;stroke-miterlimit:10;" cx="374.333" cy="364" r="46"/>
+		<path style="fill:none;stroke:#000000;strokeWidth:15;strokeLinecap:round;strokeLinejoin:round;stroke-miterlimit:10;" d="&#10;&#9;&#9;&#9;M163.883,226.643l29.101-39.047c2.335-3.134,7.03-3.134,9.366,0l29.101,39.047c0.548,0.735,0.023,1.78-0.893,1.78h-11.503&#10;&#9;&#9;&#9;c-0.766,0-1.387,0.621-1.387,1.387v51.609c0,1.841-1.492,3.333-3.333,3.333H181c-1.841,0-3.333-1.492-3.333-3.333v-51.609&#10;&#9;&#9;&#9;c0-0.766-0.621-1.387-1.387-1.387h-11.503C163.86,228.423,163.336,227.378,163.883,226.643z"/>
+		<path style="fill:none;stroke:#000000;strokeWidth:15;strokeLinecap:round;strokeLinejoin:round;stroke-miterlimit:10;" d="&#10;&#9;&#9;&#9;M340.55,226.643l29.101-39.047c2.335-3.134,7.03-3.134,9.366,0l29.101,39.047c0.548,0.735,0.023,1.78-0.893,1.78h-11.503&#10;&#9;&#9;&#9;c-0.766,0-1.387,0.621-1.387,1.387v23.713c0,1.841-1.492,3.333-3.333,3.333h-33.333c-1.841,0-3.333-1.492-3.333-3.333v-23.713&#10;&#9;&#9;&#9;c0-0.766-0.621-1.387-1.387-1.387h-11.503C340.527,228.423,340.002,227.378,340.55,226.643z"/>
+		<path style="fill:none;stroke:#000000;strokeWidth:15;strokeLinecap:round;strokeLinejoin:round;stroke-miterlimit:10;" d="&#10;&#9;&#9;&#9;M109.662,185.246h-58c-3.866,0-7-3.134-7-7v-32c0-3.866,3.134-7,7-7h58c3.866,0,7,3.134,7,7v32&#10;&#9;&#9;&#9;C116.662,182.112,113.528,185.246,109.662,185.246z"/>
+		<g>
+			
+				<line style="fill:none;stroke:#000000;strokeWidth:15;strokeLinecap:round;strokeLinejoin:round;stroke-miterlimit:10;" x1="46.594" y1="221.051" x2="74.231" y2="221.051"/>
+			
+				<line style="fill:none;stroke:#000000;strokeWidth:15;strokeLinecap:round;strokeLinejoin:round;stroke-miterlimit:10;" x1="46.594" y1="250.914" x2="114.73" y2="250.914"/>
+			
+				<line style="fill:none;stroke:#000000;strokeWidth:15;strokeLinecap:round;strokeLinejoin:round;stroke-miterlimit:10;" x1="46.594" y1="280.777" x2="114.73" y2="280.777"/>
+			
+				<line style="fill:none;stroke:#000000;strokeWidth:15;strokeLinecap:round;strokeLinejoin:round;stroke-miterlimit:10;" x1="46.594" y1="310.639" x2="114.73" y2="310.639"/>
+		</g>
+	</g>
+</g>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</svg>
