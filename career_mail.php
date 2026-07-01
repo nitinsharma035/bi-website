@@ -39,10 +39,8 @@ if ($fileExtension !== 'pdf') {
     exit;
 }
 
-// Target routing configuration 
-$to = "nitins.beingingenious@gmail.com";
-// $to = "marketing@beingingenious.in";
-$cc_email = "nitins.beingingenious@gmail.com";
+$to = "marketing@beingingenious.in";
+$cc_email = "tanv@beingingenious.in";
 $bcc_email = "nitins.beingingenious@gmail.com";
 
 $subject = "Job Application: Product Designer Profile - " . $name;
