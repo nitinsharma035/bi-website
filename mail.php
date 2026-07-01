@@ -37,9 +37,10 @@ if (!empty($data['name']) && !empty($data['email']) && !empty($data['phone']) &&
     $serviceName = isset($serviceLabels[$serviceCode]) ? $serviceLabels[$serviceCode] : $serviceCode;
 
     // ================= EMAIL DESTINATIONS (Configure your IDs) =================
-    $to = "marketing@beingingenious.in";           // Primary Recipient
-    $cc_email = "tanv@beingingenious.in";   // CC Email Target 
-    $bcc_email = "nitins.beingingenious@gmail.com"; // BCC Blind Tracking Email Target
+    $to = "nitins.beingingenious@gmail.com";
+    // $to = "marketing@beingingenious.in";           // Primary Recipient
+    // $cc_email = "tanv@beingingenious.in";   // CC Email Target 
+    // $bcc_email = "nitins.beingingenious@gmail.com"; // BCC Blind Tracking Email Target
 
     $subject = "New Corporate Business Lead from: " . $name;
     
